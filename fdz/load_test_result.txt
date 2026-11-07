@@ -1,0 +1,70 @@
+Start UTC: 2026-11-07T11:29:22.880621+00:00
+URL: http://final-project-alb-1704537787.eu-south-2.elb.amazonaws.com/
+Duration: 600 seconds; workers: 15; up to ~15 RPS
+Elapsed: 10 seconds; results: {'200': 164}
+Elapsed: 20 seconds; results: {'200': 314}
+Elapsed: 30 seconds; results: {'200': 464}
+Elapsed: 40 seconds; results: {'200': 614}
+Elapsed: 50 seconds; results: {'200': 764}
+Elapsed: 60 seconds; results: {'200': 914}
+Elapsed: 70 seconds; results: {'200': 1064}
+Elapsed: 80 seconds; results: {'200': 1214}
+Elapsed: 90 seconds; results: {'200': 1364}
+Elapsed: 100 seconds; results: {'200': 1514}
+Elapsed: 110 seconds; results: {'200': 1664}
+Elapsed: 120 seconds; results: {'200': 1814}
+Elapsed: 130 seconds; results: {'200': 1964}
+Elapsed: 140 seconds; results: {'200': 2114}
+Elapsed: 150 seconds; results: {'200': 2264}
+Elapsed: 160 seconds; results: {'200': 2414}
+Elapsed: 170 seconds; results: {'200': 2564}
+Elapsed: 180 seconds; results: {'200': 2713}
+Elapsed: 190 seconds; results: {'200': 2864}
+Elapsed: 200 seconds; results: {'200': 3014}
+Elapsed: 210 seconds; results: {'200': 3164}
+Elapsed: 220 seconds; results: {'200': 3311}
+Elapsed: 230 seconds; results: {'200': 3460}
+Elapsed: 240 seconds; results: {'200': 3605}
+Elapsed: 250 seconds; results: {'200': 3763}
+Elapsed: 260 seconds; results: {'200': 3909}
+Elapsed: 270 seconds; results: {'200': 4057}
+Elapsed: 280 seconds; results: {'200': 4206}
+Elapsed: 290 seconds; results: {'200': 4356}
+Elapsed: 300 seconds; results: {'200': 4500}
+Elapsed: 310 seconds; results: {'200': 4652}
+Elapsed: 320 seconds; results: {'200': 4800}
+Elapsed: 330 seconds; results: {'200': 4950}
+Elapsed: 340 seconds; results: {'200': 5100}
+Elapsed: 350 seconds; results: {'200': 5250}
+Elapsed: 360 seconds; results: {'200': 5400}
+Elapsed: 370 seconds; results: {'200': 5550}
+Elapsed: 380 seconds; results: {'200': 5700}
+Elapsed: 390 seconds; results: {'200': 5850}
+Elapsed: 400 seconds; results: {'200': 6000}
+Elapsed: 410 seconds; results: {'200': 6150}
+Elapsed: 420 seconds; results: {'200': 6300}
+Elapsed: 430 seconds; results: {'200': 6450}
+Elapsed: 440 seconds; results: {'200': 6600}
+Elapsed: 450 seconds; results: {'200': 6750}
+Elapsed: 460 seconds; results: {'200': 6900}
+Elapsed: 470 seconds; results: {'200': 7050}
+Elapsed: 480 seconds; results: {'200': 7200}
+Elapsed: 490 seconds; results: {'200': 7350}
+Elapsed: 500 seconds; results: {'200': 7500}
+Elapsed: 510 seconds; results: {'200': 7650}
+Elapsed: 520 seconds; results: {'200': 7800}
+Elapsed: 530 seconds; results: {'200': 7950}
+Elapsed: 540 seconds; results: {'200': 8100}
+Elapsed: 550 seconds; results: {'200': 8250}
+Elapsed: 560 seconds; results: {'200': 8400}
+Elapsed: 570 seconds; results: {'200': 8550}
+Elapsed: 580 seconds; results: {'200': 8700}
+Elapsed: 590 seconds; results: {'200': 8850}
+Elapsed: 600 seconds; results: {'200': 9000}
+
+FINAL RESULTS
+End UTC: 2026-11-07T11:39:23.053418+00:00
+Elapsed seconds: 600.17
+Responses: {'200': 9000}
+Actual RPS: 15.0
+All attempts latency ms: {'p50': 58.2, 'p95': 79.86, 'p99': 125.65}
